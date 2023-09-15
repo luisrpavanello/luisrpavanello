@@ -1,6 +1,4 @@
 <a name="readme-top"></a>
-<link rel="stylesheet" type="text/css" href="style.css">
-
 <div align="center">
   <img src="logo.png" alt="LRP" width="140"  height="auto" />
   <br/>
@@ -27,13 +25,13 @@ src="https://img.shields.io/github/followers/luisrpavanelli?logo=github&style=fo
 
 
 <p>🏠<b>Location</b>: Paraguay </p>
-<p>🌐<b>My portfolio: </b><a href="https://luisrpavanelli.github.io/luisrpavanelli-Portfolio.github.io/">"Website"</a></p>
+<p>🌐<b>My portfolio: </b><a href="https://luisrpavanelli.github.io/luisrpavanelli-Portfolio.github.io/">Website</a></p>
 <p>✉<b>My email: </b><b>luisrpavanello@gmail.com</b></p>
 <p>💬<b>My Linkedin: </b><a href="https://www.linkedin.com/in/luisrpavanello">LinkedIn</a></p>
 
 <hr>
 
-<div style="background-color: #888;">
+<div>
   <p align="center">
     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com?user=luisrpavanelli&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
