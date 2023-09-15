@@ -1,4 +1,5 @@
 <a name="readme-top"></a>
+<link rel="stylesheet" type="text/css" href="style.css">
 
 <div align="center">
   <img src="logo.png" alt="LRP" width="140"  height="auto" />
@@ -31,15 +32,18 @@ src="https://img.shields.io/github/followers/luisrpavanelli?logo=github&style=fo
 <p>💬<b>My Linkedin: </b><a href="https://www.linkedin.com/in/luisrpavanello">LinkedIn</a></p>
 
 <hr>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=luisrpavanelli&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
-  </a>
-</p>
 
-<div style="display:flex; justify-content:space-between">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisrpavanelli&show_icons=true&theme=transparent" alt="luisrpavanelli's GitHub stats" title="luisrpavanelli's GitHub stats" width="45%">
-  <a href="https://github.com/luisrpavanelli">
+<div style="background-color: #888;">
+  <p align="center">
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=luisrpavanelli&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+    </a>
+  </p>
+
+  <div style="display:flex; justify-content:space-between">
+    <img src="https://github-readme-stats.vercel.app/api?username=luisrpavanelli&show_icons=true&theme=transparent" alt="luisrpavanelli's GitHub stats" title="luisrpavanelli's GitHub stats" width="45%">
+    <a href="https://github.com/luisrpavanelli">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisrpavanelli&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=00000000&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=html" alt="Top Languages" width="45%">
   </a>
 </div>
+
