@@ -34,7 +34,7 @@ src="https://img.shields.io/github/followers/luisrpavanelli?logo=github&style=fo
 <div>
   <p align="center">
     <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=luisrpavanelli&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+      <img src="https://streak-stats.demolab.com/?user=luisrpavanelli&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
     </a>
   </p>
 
