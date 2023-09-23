@@ -41,7 +41,7 @@ src="https://img.shields.io/github/followers/luisrpavanelli?logo=github&style=fo
   <div style="display:flex; justify-content:space-between">
     <img src="https://github-readme-stats.vercel.app/api?username=luisrpavanelli&show_icons=true&theme=transparent" alt="luisrpavanelli's GitHub stats" title="luisrpavanelli's GitHub stats" width="45%">
     <a href="https://github.com/luisrpavanelli">
-    <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisrpavanelli&layout=donut)](https://github.com/anuraghazra/github-readme-stats)" alt="Top Languages" width="45%">
+    <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisrpavanelli&layout=donut)](https://github.com/luisrpavanelli/Luisrpavanelli)" alt="Top Languages" width="45%">
   </a>
 </div>
 
