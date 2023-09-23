@@ -38,6 +38,18 @@ src="https://img.shields.io/github/followers/luisrpavanelli?logo=github&style=fo
     </a>
   </p>
 
+  <p align="center">
+    <a href="https://github-readme-stats.vercel.app">
+      <img src="https://github-readme-stats.vercel.app/api?username=luisrpavanelli&show_icons=true&theme=default" alt="luisrpavanelli's GitHub stats" title="luisrpavanelli's GitHub stats" width="45%">
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://github-readme-stats.vercel.app">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisrpavanelli&layout=donut" alt="Languages" width="45%">
+    </a>
+  </p>
+
   <div style="display:grid; justify-content:space-between">
     <img src="https://github-readme-stats.vercel.app/api?username=luisrpavanelli&show_icons=true&theme=default" alt="luisrpavanelli's GitHub stats" title="luisrpavanelli's GitHub stats" width="45%">
     <a href="https://github.com/luisrpavanelli">
