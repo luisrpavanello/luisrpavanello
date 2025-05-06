@@ -33,12 +33,6 @@ src="https://img.shields.io/github/followers/luisrpavanello?logo=github&style=fo
 
 <div>
   <p align="center">
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com/?user=luisrpavanello" alt="GitHub Streak">
-    </a>
-  </p>
-
-  <p align="center">
     <a href="https://github-readme-stats.vercel.app">
       <img src="https://github-readme-stats.vercel.app/api?username=luisrpavanello&show_icons=true&theme=default" alt="luisrpavanello's GitHub stats" title="luisrpavanello's GitHub stats" width="45%">
     </a>
